@@ -4,7 +4,7 @@ TaskHub is a modern task management app developed entirely in Kotlin, designed t
 
 ## Features
 
-The features of TaskHub have been grouped into bronze, silver, and gold categories, reflecting the depth and complexity of functionality provided:
+The features of TaskHub have been grouped into bronze, silver, and gold categories, reflecting the depth and complexity of functionality provided.
 
 ### Bronze (50%-70%)
 
@@ -29,6 +29,34 @@ The features of TaskHub have been grouped into bronze, silver, and gold categori
 
 TaskHub empowers users to take control of their tasks, manage their time effectively, and achieve their goals with ease. Stay organized, stay productive with TaskHub.
 
----
+## Getting Started
 
-*Note: The percentages mentioned in each category represent the completion level of features within that category.*
+To set up TaskHub for development, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   https://github.com/GeekyYouthsInfo/Task-Bag.git
+   ```
+
+2. **Open in Android Studio:**
+   Open the project in Android Studio.
+
+3. **Run the App:**
+   Run the app on an emulator or physical device to start testing and development.
+
+## Contributing
+
+Contributions to TaskHub are welcome! If you want to contribute to this project, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/new-feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/new-feature`).
+6. Create a new Pull Request.
+
+Please ensure that your pull request adheres to the code style and conventions used in the project.
+
+## License
+
+TaskHub is open-source software licensed under the [MIT license](LICENSE).
